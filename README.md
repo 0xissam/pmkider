@@ -11,16 +11,22 @@ Clone the repository:
 
 bash
 Copy code
+```
 git clone https://github.com/0xissam/pmkider.git
+```
 Change directory to the cloned repository:
 
 bash
 Copy code
+```
 cd pmkider
+```
 Run the script:
 
 Copy code
+```
 python3 pmkid_attack.py
+```
 Follow the prompts to enter the interface on monitor mode and the MAC address of the target access point.
 
 Wait for the script to capture the PMKID hash and write it to a file called hash.hc22000.

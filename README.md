@@ -9,21 +9,16 @@ termcolor Python package installed
 # Usage
 Clone the repository:
 
-bash
-Copy code
 ```
 git clone https://github.com/0xissam/pmkider.git
 ```
 Change directory to the cloned repository:
 
-bash
-Copy code
 ```
 cd pmkider
 ```
 Run the script:
 
-Copy code
 ```
 python3 pmkid_attack.py
 ```

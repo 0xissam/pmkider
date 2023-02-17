@@ -1,12 +1,12 @@
-PMKID Attack Script
+# PMKID Attack Script
 This Python script performs a PMKID attack on a Wi-Fi network to obtain the Pairwise Master Key ID (PMKID) hash, which can be used to crack the Wi-Fi password. The script uses the hcxdumptool and hashcat tools to capture the PMKID hash and crack it, respectively.
 
-Prerequisites
+# Prerequisites
 Linux operating system
 hcxdumptool and hcxpcapngtool tools installed
 hashcat tool installed
 termcolor Python package installed
-Usage
+# Usage
 Clone the repository:
 
 bash

@@ -20,7 +20,7 @@ cd pmkider
 Run the script:
 
 ```
-python3 pmkid_attack.py
+python3 pmkider.py
 ```
 Follow the prompts to enter the interface on monitor mode and the MAC address of the target access point.
 
